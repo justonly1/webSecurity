@@ -4,7 +4,7 @@
 可用于教育教学测试
 本环境基于docker
 
-可使用docker pull ju5ton1y/webSecurity直接下载镜像
+可使用docker pull ju5ton1y/websecurity直接下载镜像
 进入容器之后在root目录下有setup.sh
 需要先运行setup.sh
 
