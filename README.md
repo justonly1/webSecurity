@@ -1,4 +1,4 @@
-# websafe
+# webSecurity
 
 一个简单的web安全测试系统
 可用于教育教学测试
